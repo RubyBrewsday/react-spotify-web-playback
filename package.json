@@ -32,7 +32,7 @@
     "react": "^16.8.0 || ^17.0.0"
   },
   "dependencies": {
-    "@gilbarbara/react-range-slider": "^0.6.1",
+    "@gilbarbara/react-range-slider": "github:RubyBrewsday/react-range-slider",
     "exenv": "^1.2.2",
     "memoize-one": "^5.2.1",
     "nano-css": "^5.3.4"
